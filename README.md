@@ -1,4 +1,5 @@
 ## Multi-Channel Voice of Customer (VoC) Data Analysis
+(07.02.2024- Present)
 
 # Abstract
 In today's digital landscape, understanding customer sentiments and preferences across various channels is crucial for organizations to enhance customer experience and drive business growth. The Multi-Channel Voice of Customer (VoC) Data Analysis project aims to address the challenges of aggregating, processing, and extracting actionable insights from customer feedback dispersed across diverse channels such as emails, reviews, and social media platforms. The project leverages AI-powered solutions to streamline data ingestion, cleaning, sentiment analysis, topic modeling, and visualization, enabling organizations to gain valuable insights from customer interactions.
